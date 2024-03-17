@@ -1,4 +1,9 @@
 # Starkbuks Drinks 
+<div align="center">
+  <img src="https://github.com/ngnlyoosun/starbucksdrinksql/assets/91989383/7b1e636b-ad14-4ee4-bbec-d356ea82402f" width="100">
+</div>
+
+
 The Starbucks Beverage Insights Database is meticulously crafted to enhance the Starbucks experience by providing a detailed overview of beverage options. It includes DrinkItems, detailing every drink available; DrinkTypes, distinguishing between hot and cold beverages; and Categories, organizing drinks into specific groups. NutritionalInfo offers insights into the health aspects of each drink, including calories, sugar, and fat content. Toppings and DrinkItemToppings allow for a tailored beverage experience, enabling customization. The primary goal is to offer customers better drink recommendations and simplify access to beverage information, making it easier for everyone to find their perfect Starbucks drink. This database serves as an invaluable tool for those looking to explore the vast array of Starbucks offerings, ensuring informed choices and personalized experiences.
 
 ## Tables
@@ -39,10 +44,12 @@ Explore the depth of Starbucks beverages with curated SQL scripts. From dissecti
 **view_specificsituation.sql** delivers targeted beverage recommendations by filtering for specific criteria such as decaf options and excluding certain categories like Coffee Travellers and Packaged Beverages. It further details drinks made with Blonde Espresso and showcases non-dairy drink options, emphasizing customer-centric solutions for varied dietary needs and preferences.
 
 ## ERD Diagram
-<img src="https://github.com/ngnlyoosun/starbucksdrinksql/assets/91989383/1c6da634-0f70-4bc4-a176-df307ff3fe5b" width="800">
+<div align="center">
+  <img src="https://github.com/ngnlyoosun/starbucksdrinksql/assets/91989383/1c6da634-0f70-4bc4-a176-df307ff3fe5b" width="800">
+</div>
 
 ## Future Updates
 Future updates will include additional tables, views, and queries to further enrich our Starbucks beverage insights. Stay tuned for more comprehensive analyses and recommendations.
 
 ## Reference
-https://www.starbucks.ca/menu?gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GoiDP5Lw77QZBycnw6t3jl40ky6VH5dLR4G9jABQTKatYXsp5BugnwgaAudrEALw_wcB
+Data for this repository was sourced from the official Starbucks website. For more detailed information on Starbucks beverages and their nutritional content, visit [Starbucks' official site](https://www.starbucks.ca/menu).
