@@ -12,7 +12,6 @@ The Starbucks Beverage Insights Database is meticulously crafted to enhance the 
 
 5. **DrinkItemToppings Table**: Acting as a bridge between DrinkItems and Toppings, this table maps which toppings are compatible with each drink, facilitating an easy customization process. It ensures that recommendations can include personalized touches, making each drink truly unique to the customer's taste.
 
-
 ## Insert Data Scripts
 Populate the Starbucks Beverage Insights Database with comprehensive data using the following scripts:
 
@@ -28,7 +27,6 @@ Populate the Starbucks Beverage Insights Database with comprehensive data using 
 
 - `insert_drinkItems_toppings.sql`: Links drinks to their corresponding toppings, enabling detailed customization possibilities.
 
-
 ## Comprehensive Beverage Insights: Pricing, Nutrition, and Customization Analysis
 Explore the depth of Starbucks beverages with curated SQL scripts. From dissecting pricing strategies in `view_price.sql` to navigating nutritional content with `view_nutritionalinfo.sql`, the analyses span the spectrum of customer interests. Delve into popular trends with `view_toppings.sql` and uncover specific beverage recommendations tailored to dietary preferences and exclusions in `view_specificsituation.sql`. This collection serves as a gateway to understanding Starbucks' offerings in pricing, nutrition, and customization.
 
@@ -43,4 +41,8 @@ Explore the depth of Starbucks beverages with curated SQL scripts. From dissecti
 ## ERD Diagram
 <img src="https://github.com/ngnlyoosun/starbucksdrinksql/assets/91989383/1c6da634-0f70-4bc4-a176-df307ff3fe5b" width="800">
 
+## Future Updates
+Future updates will include additional tables, views, and queries to further enrich our Starbucks beverage insights. Stay tuned for more comprehensive analyses and recommendations.
 
+## Reference
+https://www.starbucks.ca/menu?gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GoiDP5Lw77QZBycnw6t3jl40ky6VH5dLR4G9jABQTKatYXsp5BugnwgaAudrEALw_wcB
