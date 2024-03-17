@@ -1,7 +1,7 @@
 # Starkbuks Drinks 
 The Starbucks Beverage Insights Database is meticulously crafted to enhance the Starbucks experience by providing a detailed overview of beverage options. It includes DrinkItems, detailing every drink available; DrinkTypes, distinguishing between hot and cold beverages; and Categories, organizing drinks into specific groups. NutritionalInfo offers insights into the health aspects of each drink, including calories, sugar, and fat content. Toppings and DrinkItemToppings allow for a tailored beverage experience, enabling customization. The primary goal is to offer customers better drink recommendations and simplify access to beverage information, making it easier for everyone to find their perfect Starbucks drink. This database serves as an invaluable tool for those looking to explore the vast array of Starbucks offerings, ensuring informed choices and personalized experiences.
 
-#Tables
+## Tables
 1. DrinkTypes Table: Understanding the preference for either hot or cold beverages is fundamental in tailoring recommendations. The DrinkTypes table categorizes beverages based on their temperature, marking each with a distinctive type name and temperature attribute (Hot or Cold). This classification helps narrow down choices based on individual preferences.
 
 2. Categories Table: Beyond temperature, drinks are further organized into categories to delineate specific groups such as lattes, frappuccinos, or refreshers. Each category is linked to a drink type, offering a structured way to browse through similar beverage styles or flavors.
