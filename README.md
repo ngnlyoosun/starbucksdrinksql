@@ -55,4 +55,4 @@ Future updates will include additional tables, views, and queries to further enr
 Data for this repository was sourced from the official Starbucks website. For more detailed information on Starbucks beverages and their nutritional content, visit [Starbucks' official site](https://www.starbucks.ca/menu).
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/ngnlyoosun/starbucksdrinksql/blob/main/License).
