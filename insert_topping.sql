@@ -1,0 +1,14 @@
+INSERT INTO Toppings (Name) VALUES ('Whipped Cream');
+INSERT INTO Toppings (Name) VALUES ('Mocha Drizzle');
+INSERT INTO Toppings (Name) VALUES ('Caramel Drizzle');
+INSERT INTO Toppings (Name) VALUES ('Cinnamon Powder');
+INSERT INTO Toppings (Name) VALUES ('Cinnamon Dolce Sprinkles');
+INSERT INTO Toppings (Name) VALUES ('Cookie Crumble Topping');
+INSERT INTO Toppings (Name) VALUES ('Caramel Crunch Topping');
+INSERT INTO Toppings (Name) VALUES ('Salted Brown-Butter Topping');
+INSERT INTO Toppings (Name) VALUES ('Oleato Golden Foam');
+INSERT INTO Toppings (Name) VALUES ('Pistachio Cream Cold Foam');
+INSERT INTO Toppings (Name) VALUES ('Salted Caramel Cream Cold Foam');
+INSERT INTO Toppings (Name) VALUES ('Cinnamon Caramel Cream Cold Foam');
+INSERT INTO Toppings (Name) VALUES ('Chocolate Cream Cold Foam');
+INSERT INTO Toppings (Name) VALUES ('Lavender Cream Cold Foam');
